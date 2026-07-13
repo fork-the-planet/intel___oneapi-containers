@@ -1,7 +1,7 @@
 # Copyright (c) 2020-2026 Intel Corporation.
 # SPDX-License-Identifier: BSD-3-Clause
 
-FROM ubuntu:24.04
+FROM ubuntu:26.04
 
 ARG ONEAPI_VTUNE_VERSION="2026.3.0-5"
 
